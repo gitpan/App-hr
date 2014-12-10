@@ -1,7 +1,7 @@
 package App::hr;
 
 our $DATE = '2014-12-10'; # DATE
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 use 5.010001;
 use strict;
@@ -52,7 +52,7 @@ App::hr - Print horizontal bar on the terminal
 
 =head1 VERSION
 
-This document describes version 0.01 of App::hr (from Perl distribution App-hr), released on 2014-12-10.
+This document describes version 0.03 of App::hr (from Perl distribution App-hr), released on 2014-12-10.
 
 =head1 SYNOPSIS
 

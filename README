@@ -2,7 +2,7 @@ NAME
     App::hr - Print horizontal bar on the terminal
 
 VERSION
-    This document describes version 0.01 of App::hr (from Perl distribution
+    This document describes version 0.03 of App::hr (from Perl distribution
     App-hr), released on 2014-12-10.
 
 SYNOPSIS
